@@ -19,6 +19,10 @@ public class Post {
         this.description = description;
     }
 
+    public Post()
+    {
+
+    }
     public Integer getId() {
         return id;
     }
